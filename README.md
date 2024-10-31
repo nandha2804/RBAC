@@ -1,9 +1,6 @@
 <!-- Improved compatibility of back to top link: See: (https://github.com/nandha2804/RBAC/main/README.md) -->
 <a id="readme-top"></a>
 
-Here is the `README.md` file code for your RBAC project:
-
-```markdown
 # RBAC Project
 
 ## Description
@@ -21,9 +18,8 @@ This project implements a Role-Based Access Control (RBAC) system to manage user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rbac-project.git
-   cd rbac-project
-   ```
+   git clone https://https://github.com/nandha2804/RBAC.git
+   cd RBAC
 
 2. Install dependencies:
    ```bash
